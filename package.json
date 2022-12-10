@@ -8,7 +8,7 @@
     "watch": "npx watchify ./public/main.js -o ./public/bundle.js"
   },
   "dependencies": {
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "simple-peer": "^9.2.1",
     "socket.io": "^2.2.0"
   },
